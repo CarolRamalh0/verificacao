@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Madimi One", sans-serif;
+    text-align: center;
+    background: rgb(77,230,255);
+    background: linear-gradient(90deg, rgba(77,230,255,1) 0%, rgba(238,253,89,1) 50%, rgba(253,104,89,1) 100%);
+}
+
+h1 {
+    margin: 60px;
+    font-size: 3em;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+iframe {
+    margin: 30px;
+    border-radius: 20px;
+    border: solid 8px;
+}
